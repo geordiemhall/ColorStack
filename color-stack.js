@@ -1,3 +1,11 @@
+// ColorStack
+// 
+// A simple library for calculating the effective background color of an element
+// v0.1
+// @geordiemhall
+// --------------------------------------------------------------------------------------------
+
+
 ;(function(){
 
 // Imports
